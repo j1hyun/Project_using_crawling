@@ -1,7 +1,14 @@
 # crawling
 
+## 친수하천 프로젝트
+
+'대저생태공원'과 '삼락생태공원'을 태그한 인스타그램 포스트와 두 공원의 구글맵 리뷰 게시글들을 csv 파일로 만들어 키워드를 뽑아낸 후 가장 자주 사용된 키워드와 워드클라우드를 생성하여 두 장소의 이미지에 대해 알아보기 
+
 ## busan_weather crawling
+
 > wind는 같은 방법을 사용하면 적힌 결과가 나오지 않으므로 따로 json file을 만들어 크롤링함
 
+  
 ## 참고 자료
->[크롬 개발자 도구 Console에서 Google Play Review 크롤링하기](https://zzsza.github.io/development/2019/03/12/crawling-in-developer-tools-console/)
+
+> [크롬 개발자 도구 Console에서 Google Play Review 크롤링하기](
